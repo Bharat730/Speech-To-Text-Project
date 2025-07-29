@@ -1,0 +1,14 @@
+pandas
+openpyxl
+requests
+assemblyai
+deep-translator
+openai-whisper
+datasets==2.16.1
+torch
+numpy
+soundfile
+librosa
+google-generativeai
+pydub
+noisereduce
