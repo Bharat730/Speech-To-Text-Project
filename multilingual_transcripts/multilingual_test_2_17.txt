@@ -1,0 +1,8 @@
+Language: German
+Reference Text: der amazonas ist auch der breiteste fluss der erde teilweise bis zu sechs meilen breit
+----------------------------------------
+Whisper Transcription (in original language):
+ Der Amazonas ist auch der breiteste Fluss der Erde, teilweise bis zu 6 Meilen breit.
+----------------------------------------
+Whisper Translation (to English):
+ The Amazon is also the widest river in the world, sometimes up to 6 miles wide.

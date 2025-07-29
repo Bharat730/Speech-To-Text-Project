@@ -1,0 +1,137 @@
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 2:
+  Original: हेलो, लखन पाल जी से बात हो रही है सर?
+  English: Hello, am I speaking with Mr. Lakhan Pal, sir?
+
+Speaker 1:
+  Original: हां जी, बोलो।
+  English: Yes, please speak.
+
+Speaker 2:
+  Original: जी नमस्कार सर। सर मैं सीट्स फिनकैप कंपनी के हेड ऑफिस से बात कर रही हूं, जहां से लोन चल रहा है आपका।
+  English: Greetings, sir. Sir, I am speaking from the head office of Seats Fincap Company, from where your loan is running.
+
+Speaker 1:
+  Original: हां जी, हां जी।
+  English: Yes, yes.
+
+Speaker 2:
+  Original: सर एक जानकारी देने के लिए कॉल किया है कि, हमारी कंपनी ने कुछ अच्छे कस्टमर सिलेक्ट किए हैं। ऑफर दे रही है कि अगर आप अपने इस लोन को आगे बढ़ाकर लेना चाहते हैं, तो ले सकते हैं सर।
+  English: Sir, I'm calling to inform you that our company has selected some good customers. We are offering that if you want to extend your loan, you can take it, sir.
+
+Speaker 1:
+  Original: अच्छा जी।
+  English: Okay.
+
+Speaker 2:
+  Original: जी, उससे आपको कुछ बेनिफिट भी मिल जाएंगे सर अभी।
+  English: Yes, you will also get some benefits from it, sir.
+
+Speaker 1:
+  Original: उसमें रेट इन, रेट ऑफ़ इंटरेस्ट वही रहेगा जो पहले था कि कम हुआ है कुछ?
+  English: Will the rate, the rate of interest remain the same as before, or has it decreased?
+
+Speaker 2:
+  Original: कम हो जाएगा सर 2%.
+  English: It will be reduced by 2%, sir.
+
+Speaker 1:
+  Original: 2% पे मिलेगा?
+  English: I'll get it at 2%?
+
+Speaker 2:
+  Original: 2% कम हो जाएगा सर। जितना आपका पहले चल रहा था ना, उससे 2% कम पर मिल जाएगा अब वाला।
+  English: It will be reduced by 2%, sir. Whatever your previous rate was, the new one will be 2% lower.
+
+Speaker 1:
+  Original: अच्छा अच्छा, पहले तो मेरी 1,00,000 रुपए का 5,500 गुणा में 24 किस्त दी थी आपको।  1,32,000 रुपए गया था।
+  English: Okay, okay. Initially, I paid you 24 installments of ₹5,500 on a loan of ₹1,00,000. ₹1,32,000 went in total.
+
+Speaker 2:
+  Original: हां जी।
+  English: Yes.
+
+Speaker 2:
+  Original: तो अभी, आप लेना चाहते हैं, तो मैं आपकी फाइल आगे फॉरवर्ड कर दूं ब्रांच में। वो खुद कांटेक्ट करके आपको सर सारी जानकारी देंगे। अगर आपको ठीक लगता है, तो आप करा लेना।
+  English: So now, if you want to take it, I will forward your file to the branch. They will contact you themselves and give you all the information, sir. If it sounds good to you, then you can go ahead with it.
+
+
+Speaker 1:
+  Original: ठीक है।
+  English: Okay.
+
+Speaker 1:
+  Original: कितना हो जाएगा मैम वो ये इस टाइम?
+  English: How much will it be, ma'am, at this time?
+
+Speaker 2:
+  Original: सर वो आपके बिजनेस पर डिपेंड करता है। मैं तो यहां से आपका बिजनेस नहीं देख सकते ना। हमारी ब्रांच से जो आएंगे ना वो आपका बिजनेस वगैरह देखकर आपको सारी जानकारी देंगे सर। अगर आपको,
+  English: Sir, that depends on your business. I can't see your business from here, right? The people who will come from our branch will see your business, etc., and give you all the information, sir. If you...
+
+Speaker 1:
+  Original: नहीं नहीं, जैसे मेरा पहले 1 लाख रूपए का लोन था, मैंने वो क्लियर भी कर दिया। कोई किस्त भी नहीं हुई। तो लोन का ऑफर तो बढ़ के ही आया, आया होगा ना। कुछ ऑफर तो आपके पास आ रहा होगा ना?
+  English: No, no, like I previously had a loan of ₹1 lakh, and I cleared that too.  There weren't any pending installments.  So, the loan offer must have increased, right? Some offer must be coming to you, right?
+
+Speaker 2:
+  Original: सर, वो बस मेरे पास इतना आता है कि, एक लोन अमाउंट आपको बढ़कर मिल जाएगा और अभी जो ब्याज दर आपकी इस वाले लोन में चल रही है, उससे 2% कम पर मिल जाएगा। और सर जो आपके बाकी किस्त बची हैं, उनका ब्याज आपको नहीं देना होगा। बस मेरे पास इतना आता है सर। वो सारी जानकारी हमारी ना ब्रांच वाले आपको दे देंगे। अगर आपको ठीक लगता है, तो आप करा लेना सर। ऐसा कोई जबरदस्ती नहीं है।
+  English: Sir, all I have is that you will get an increased loan amount, and the interest rate that is currently running on this loan will be reduced by 2%. And sir, you won't have to pay interest on your remaining installments. This is all I have, sir. Our branch people will give you all the information. If you feel it's right, then you can do it, sir. There's no compulsion.
+
+
+Speaker 1:
+  Original: मैम मेरी किस्त कहां बची हुई है, मेरा तो लोन ही क्लियर है।
+  English: Ma'am, where do I have any pending installments? My loan is already cleared.
+
+Speaker 2:
+  Original: अच्छा लोन क्लियर है? ठीक है तो सर, वो, बताइए।
+  English: Oh, the loan is cleared? Okay then, sir. Tell me.
+
+
+Speaker 1:
+  Original: मेरा लोन क्लियर हुए तो कम से कम 6 महीने से हो गए हैं आपके वहां से। फरवरी में, फरवरी में कंप्लीट हो गया था मेरा तो। जनवरी, फरवरी में।
+  English: My loan has been cleared for at least six months from your end. In February, it was completed in February.  January, February.
+
+Speaker 2:
+  Original: ठीक है सर।
+  English: Okay, sir.
+
+
+Speaker 2:
+  Original: ठीक है सर, तो अभी आप लेना चाहते हैं आगे?
+  English: Okay sir, so do you want to take it further now?
+
+
+Speaker 1:
+  Original: एक बार बात कर लेंगे मेरे से कॉल, नंबर मेरा डाल लेना। अगर मुझे सूटेबल हो,
+  English: They'll talk to me once, note down my number. If it suits me,
+
+Speaker 2:
+  Original: ठीक है सर। अगर आपको ठीक लगता है तो आप करा लेना। Okay?
+  English: Okay sir. If it seems okay to you, then you can go ahead with it. Okay?
+
+Speaker 1:
+  Original: हां जी।
+  English: Yes.
+
+
+Speaker 1:
+  Original: हेलो?
+  English: Hello?
+
+Speaker 3:
+  Original: हां जी।
+  English: Yes.
+
+Speaker 1:
+  Original: गुड आफ्टरनून।
+  English: Good afternoon.
+
+Speaker 1:
+  Original: अभी वो यहां पे हैं नहीं जिनका ये फोन है, अभी बात कर रही हैं। Okay?
+  English: The person whose phone this is is not here right now, they are talking right now. Okay?
+
+Speaker 3:
+  Original: ठीक है।
+  English: Okay.

@@ -1,0 +1,19 @@
+Speaker 1:
+  Original: Hello? Hello? Hello? Hello hello.
+  English: Hello? Hello? Hello? Hello hello.
+
+Speaker 2:
+  Original: जी, विराज जी बोल रहे हैं?
+  English: Ji, Viraj ji speaking?
+
+Speaker 1:
+  Original: हां जी। सर मैं शिवम, फाइव मिनट से बात कर रहा हूं आपसे। किसी किसी तरह सर कनेक्ट हो गया, किसी तरह बात हो रही है। थोड़ा कनेक्टिविटी
+  English: Yes. Sir, I'm Shivam, I've been trying to talk to you for five minutes. Somehow, sir, we got connected, somehow we're talking. The connectivity is a bit...
+
+Speaker 2:
+  Original: हां जी, धीरे-धीरे
+  English: Yes, slowly...
+
+Speaker 1:
+  Original: थोड़ा सा स्लो है।
+  English: It's a bit slow.

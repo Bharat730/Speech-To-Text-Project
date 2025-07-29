@@ -1,0 +1,67 @@
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 2:
+  Original: Hello? Papa? Video call karo na. Haan?
+  English: Hello? Dad?  Do a video call. Yes?
+
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 3:
+  Original: Hello. Khadim ji se baat kara sakte hain, please?
+  English: Hello. Can I speak with Khadim ji, please?
+
+Speaker 2:
+  Original: Papa ji? Kya bol lo?
+  English: Dad? What are you saying?
+
+
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+
+Speaker 4:
+  Original: Ji.
+  English: Yes.
+
+Speaker 1:
+  Original: Khadim sir baat kar rahe hain?
+  English: Is this Khadim sir speaking?
+
+Speaker 4:
+  Original: Ji.
+  English: Yes.
+
+Speaker 1:
+  Original: Main Kiss company se baat kar rahi hun, sir? Aapki EMI abhi tak jama nahi hui hai, puch sakte hain kyun?
+  English: I'm speaking from Kiss company, sir. Your EMI hasn't been deposited yet, may I ask why?
+
+Speaker 4:
+  Original: Thodi dikkat aa gayi thi.
+  English: There was a little problem.
+
+
+Speaker 1:
+  Original: Kab hogi sir jama?
+  English: When will it be deposited, sir?
+
+
+Speaker 4:
+  Original: Bas aaj kal mein kar dunga.
+  English: I'll do it today or tomorrow.
+
+Speaker 1:
+  Original: Aaj kal mein?
+  English: Today or tomorrow?
+
+Speaker 4:
+  Original: Ji. Thik hai.
+  English: Yes. Okay.

@@ -1,0 +1,59 @@
+Speaker 1:
+  Hindi: हेलो.
+  English: Hi.
+
+Speaker 2:
+  Hindi: हेलो.
+  English: Hi.
+
+Speaker 1:
+  Hindi: हेलो सर.
+  English: Hello sir.
+
+Speaker 2:
+  Hindi: गुड.
+  English: Good.
+
+Speaker 1:
+  Hindi: मॉर्निंग.
+  English: Morning.
+
+Speaker 2:
+  Hindi: मोसिन खान सर से बात हो रही.
+  English: Mosin Khan is talking to Sir.
+
+Speaker 1:
+  Hindi: है। जी.
+  English: Is. Yes.
+
+Speaker 2:
+  Hindi: में सीट्स कंपनी से बात.
+  English: Talk to the seats company.
+
+Speaker 1:
+  Hindi: कर रही हूँ। सर सर बताइए सर.
+  English: I am doing Sir sir, tell me sir.
+
+Speaker 2:
+  Hindi: 5500 की आपको अभी तक जमा नहीं हुई है।
+  English: You have not yet accumulated 5500.
+
+Speaker 1:
+  Hindi: हो जाएगा.
+  English: Will be done.
+
+Speaker 2:
+  Hindi: कब तक होगी सिर.
+  English: How long will the head be.
+
+Speaker 1:
+  Hindi: और अभी 2 दिन लग जायेंगे।
+  English: And it will take 2 days now.
+
+Speaker 2:
+  Hindi: 23 दिन सिर पूरा महीना देखना। आज 17 तारीख को पूरा महीना निकल जाएगा। जबकि आपको बता दिया गया था कि 1 से 10 मई जमा करनी होती है।
+  English: 23 days to see the entire month. Today, the entire month will pass on the 17th. While you were told that I have to submit May 1 to 10.
+
+Speaker 1:
+  Hindi: जल्दी बनाएंगे और लाल में थोड़ा काम कर। र लाइन पर काम कर रहा हूँ। साइन चल रही है, मैं आपसे बात नहीं कर सकता।
+  English: Will make it quickly and do a little work in red. I am working on the line. The sign is going on, I can't talk to you.

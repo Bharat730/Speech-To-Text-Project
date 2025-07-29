@@ -1,0 +1,11 @@
+Speaker 1:
+  Original: Hello, Mister Mukesh Kumar ji se ho rahi hai yeh?
+  English: Hello, is this Mr. Mukesh Kumar?
+
+Speaker 2:
+  Original: Bol raha hun.
+  English: Speaking.
+
+Speaker 1:
+  Original: Mukesh ji, Kiss company se baat kar rahi hu, jo loan kar rahi hai aapka. Aapke udhar se das tarikh ki kist aapke khate se kategi. Toh balance rakhna khate mein taki koi pareshani na ho. Thank you. Thik hai sir aap?
+  English: Mukesh ji, I am speaking from the company that is handling your loan. Your installment for the 10th of the month will be deducted from your account. So please maintain sufficient balance in your account to avoid any issues. Thank you. Is that okay, sir?

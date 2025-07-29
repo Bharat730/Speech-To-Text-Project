@@ -1,0 +1,24 @@
+Speaker 1:
+  Original: Halo?
+  English: Hello?
+
+Speaker 1:
+  Original: Halo?
+  English: Hello?
+
+Speaker 1:
+  Original: Halo?
+  English: Hello?
+
+Speaker 2:
+  Original: Selamat pagi Bapak/Ibu, ini adalah panggilan otomatis untuk memberi tahu Anda bahwa kartu kredit Anda telah digunakan untuk pembelian sejumlah Rp10.000.000,-  di sebuah toko online. Jika Anda tidak melakukan pembelian ini, silakan tekan satu untuk berbicara dengan perwakilan kami. Dan jika Anda melakukan pembelian ini, silakan abaikan pesan ini. Terima kasih.
+  English: Good morning, sir/madam. This is an automated call to inform you that your credit card has been used for a purchase of 10,000,000 Rupiah at an online store. If you did not make this purchase, please press one to speak with our representative. And if you made this purchase, please ignore this message. Thank you.
+
+
+Speaker 3:
+  Original: Tengok kali teleponnya ini. Tengok kali yo. Halo. 
+  English: Look at this phone call.  Look at this. Hello.
+
+Speaker 3:
+  Original: Pip.
+  English: Beep.

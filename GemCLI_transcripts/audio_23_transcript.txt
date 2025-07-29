@@ -1,0 +1,31 @@
+Speaker 1:
+  Original: आवाज कट रही है थोड़ा
+  English: The voice is cutting out a bit.
+
+Speaker 2:
+  Original: हेलो
+  English: Hello
+
+Speaker 3:
+  Original: जी
+  English: Yes
+
+Speaker 2:
+  Original: सर, Shaifali से बात कर रहे हैं?
+  English: Sir, are you speaking with Shaifali?
+
+Speaker 3:
+  Original: हाँ, बोल रहा हूँ। मैं छोटा हूँ। मैं बात करा दूंगा। 
+  English: Yes, I am speaking. I am Chhota. I will get you to speak with her.
+
+Speaker 2:
+  Original: सर, आपकी EMI जमा नहीं हुई है। मैं Kiss कंपनी से बात कर रही हूँ।
+  English: Sir, your EMI payment hasn't been received. I am speaking from Kiss company.
+
+Speaker 3:
+  Original: ठीक है, मैं बात कराता हूँ पाँच सात मिनट में। ठीक है?
+  English: Okay, I'll have you talk to her in five to seven minutes. Okay?
+
+Speaker 2:
+  Original: ठीक है।
+  English: Okay.

@@ -1,0 +1,15 @@
+Speaker 1:
+  Original: हेलो, नमस्ते। क्या मैं बात महेंद्र सिंह जी से हो रही है? हेलो
+  English: Hello, Greetings. Am I speaking with Mahendra Singh Ji? Hello
+
+Speaker 2:
+  Original: हां बोलो, कौन?
+  English: Yes, speak. Who is this?
+
+Speaker 3:
+  Original: सर, सीज़ कंपनी से बात कर रही हूं। जो लोन चल रहा है अभी आपका, आपके 10 तारीख की किश्त है, आपके खाते से कटेगी। तो बैलेंस मेन्टेन रखिएगा ताकि कोई भी समस्या ना हो, ठीक है?
+  English: Sir, I'm speaking from the Seas company. Regarding the loan you currently have, your installment is due on the 10th, it will be deducted from your account. So please maintain the balance so that there's no problem, okay?
+
+Speaker 2:
+  Original: हां, हां, हां। थैंक यू।
+  English: Yes, yes, yes. Thank you.

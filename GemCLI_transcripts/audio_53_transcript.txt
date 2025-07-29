@@ -1,0 +1,48 @@
+Speaker 1:
+  Original: Hello
+  English: Hello
+
+Speaker 2:
+  Original: Hello, Hello
+  English: Hello, Hello
+
+Speaker 1:
+  Original: Haan ji?
+  English: Yes?
+
+Speaker 2:
+  Original: Hello. Ji, Harivansh ke ghar se?
+  English: Hello. Yes, is this Harivansh's residence?
+
+Speaker 1:
+  Original: Haan ji.
+  English: Yes.
+
+Speaker 2:
+  Original: Hello, Sardar baat karenge?
+  English: Hello, will Sardar talk?
+
+Speaker 1:
+  Original: Haan ji? Kaun se Sardar?
+  English: Yes? Which Sardar?
+
+Speaker 2:
+  Original: Harivansh Singh kar raha hun. Harivansh Singh bol raha hun, hain na?
+  English: This is Harivansh Singh speaking. Harivansh Singh is speaking, right?
+
+Speaker 1:
+  Original: Haan ji. Haan. Kya kahte hain aap?
+  English: Yes. Yes. What do you say? (What's up?)
+
+
+Speaker 2:
+  Original: Sir aap
+  English: Sir, you...
+
+Speaker 1:
+  Original: Hello. Haan ji.
+  English: Hello. Yes.
+
+Speaker 2:
+  Original: [Beep]
+  English: [Beep]

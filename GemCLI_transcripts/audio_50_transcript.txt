@@ -1,0 +1,56 @@
+Speaker 1:
+  Original: हेलो राजेश जी से बात हो रही है सर?
+  English: Hello, am I speaking with Mr. Rajesh?
+
+Speaker 2:
+  Original: जी
+  English: Yes
+
+Speaker 1:
+  Original: जी नमस्कार सर, सर मैं शील्ड्स फिनकेयर कंपनी के हेड ऑफिस से बात कर रही हूं, जहां से लोन चल रहा है आपका।
+  English: Hello sir. Sir, I am speaking from the head office of Shields Fincare Company, from where your loan is running.
+
+Speaker 2:
+  Original: कौन सी कंपनी से?
+  English: Which company?
+
+Speaker 1:
+  Original: शील्ड्स फिनकेयर से सर, जहां से आपका लोन चल रहा था डेढ़ लाख का।
+  English: From Shields Fincare, sir, where your loan of 1.5 lakhs was running.
+
+Speaker 2:
+  Original: शील्ड्स? अच्छा अच्छा शील्ड्स। हां बोलिए, बोलिए।
+  English: Shields? Oh, okay, Shields. Yes, tell me, speak.
+
+Speaker 1:
+  Original: सर एक जानकारी देनी थी आपको कि हमारे कंपनी ने कुछ अच्छे कस्टमर्स सिलेक्ट किए हैं, ऑफर दे रही है कि अगर आप अपने इस लोन को आगे बढ़ा कर लेना चाहते हैं सर, तो ले सकते हैं।
+  English: Sir, I wanted to inform you that our company has selected some good customers and is offering them the option to increase their loan amount if they wish to do so.
+
+Speaker 2:
+  Original: कितने का होगा?
+  English: How much will it be?
+
+Speaker 1:
+  Original: सर वो तो आपके बिज़नेस पे डिपेंड करता है।
+  English: Sir, that depends on your business.
+
+Speaker 2:
+  Original: पांच लाख का चाहिए हमें तो।
+  English: We need 5 lakhs.
+
+Speaker 1:
+  Original: हां सर वो एसडीएल वाले प्रोडक्ट में आ जाता है। उसमें प्रॉपर्टी के डॉक्यूमेंट वगैरह रखना होता है। सिक्योर्डिटी के तौर पर। सर उसमें थोड़ा।
+  English: Yes sir, that falls under the SDL product. In that, you have to submit property documents, etc., as security. Sir, in that, a little...
+
+Speaker 2:
+  Original: चलो कोई बात नहीं, कोई बात नहीं, कोई बात नहीं, ले लेंगे तो।
+  English: Okay, no problem, no problem, no problem, we'll take it then.
+
+
+Speaker 1:
+  Original: नहीं अगर आप प्रॉपर्टी के डॉक्यूमेंट रख सकते हैं, तो आप वो ले लीजिएगा, हम लोन दे देंगे।
+  English: No, if you can submit the property documents, then you can take it, we will give you the loan.
+
+Speaker 2:
+  Original: नहीं प्रॉपर्टी है, प्रॉपर्टी है ये नहीं है बात। <long pause with background noise>
+  English: No, we have property, property is not the issue. <long pause with background noise>

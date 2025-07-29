@@ -1,0 +1,43 @@
+Speaker 1:
+  Hindi: हेलो हेलो.
+  English: Hello Hello.
+
+Speaker 2:
+  Hindi: रोहित बात कर रहे.
+  English: Rohit is talking.
+
+Speaker 1:
+  Hindi: हँ हँ जी.
+  English: Yes,
+
+Speaker 2:
+  Hindi: ऐसी बात कर रही हूँ। सर आपने एम आई नहीं दी.
+  English: I am talking like this. Sir, you did not give MI.
+
+Speaker 1:
+  Hindi: कौन सी कंपनी.
+  English: Which company.
+
+Speaker 2:
+  Hindi: की जो आपकी एमई ने 4904.
+  English: That which your ME has given 4904.
+
+Speaker 1:
+  Hindi: हजार 900, 4900 के जी नहीं नहीं मैं मैं तो देती हूँ इसमें आपको 4904 हजार 900 की तो नहीं है। 6600 रूपए की है तो.
+  English: Thousand 900, 4900 no no, I give you 4904 thousand 900 in it. If it is 6600 rupees.
+
+Speaker 2:
+  Hindi: 500 रुपए पेनल्टी लगा। 10 तारीख के बाद अगर आप देते हैं तो 500 रुपए पेनल्टी होता है.
+  English: 500 rupees penalty. If you give after the 10th, then 500 rupees are penalty.
+
+Speaker 1:
+  Hindi: न उसे ओके मैं.
+  English: Neither did I do.
+
+Speaker 2:
+  Hindi: अच्छा कब कर आई थी आप मुझे बता दोगे 1 बार ठीक है ओके.
+  English: Well, when did you have done it, you will tell me 1 time OK.
+
+Speaker 1:
+  Hindi: हो।
+  English: yes.

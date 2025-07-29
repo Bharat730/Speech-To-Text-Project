@@ -1,0 +1,44 @@
+Speaker 1:
+  Original: Hello, hello, hello, hello?
+  English: Hello, hello, hello, hello?
+
+Speaker 2:
+  Original: Hello. Sir Imran sir se baat ho rahi hai?
+  English: Hello. Am I speaking with Mr. Imran?
+
+Speaker 1:
+  Original: Ji, ji.
+  English: Yes, yes.
+
+Speaker 2:
+  Original: Main Kiss company se baat kar rahi hun? Sir aapki EMI jama hone ki thi. Aapne abhi tak EMI jama nahi ki hai ek din se bhi zyada ho gaya hai. Kyu?
+  English: Which company am I speaking with? Sir, your EMI was due. You haven't deposited your EMI yet, it's been more than a day. Why?
+
+Speaker 1:
+  Original: Main, main Delhi mein hun. Mere ko woh baat nahi, main bhai se bolta hun karne ke liye. Main Delhi mein hun is samay.
+  English: I, I am in Delhi. I don't have that information, I'll tell my brother to do it. I am in Delhi right now.
+
+Speaker 2:
+  Original: Haan. Sir loan toh aapne liya tha na?
+  English: Yes. But sir, you took the loan, right?
+
+Speaker 1:
+  Original: Haan dekho main bol raha hun unko woh, woh kar denge hamari EMI, aap tension mat lo.
+  English: Yes look, I'm telling him, he will pay our EMI, you don't worry.
+
+Speaker 2:
+  Original: Kab tak jama kar denge sir?
+  English: By when will you deposit it, sir?
+
+
+Speaker 1:
+  Original: Main phone karke abhi puch ke aaj bata raha hun, theek hai?
+  English: I'll call and ask him now and let you know today, okay?
+
+Speaker 2:
+  Original: Theek hai sir.
+  English: Okay, sir.
+
+Speaker 1:
+  Original: Okay, bye. Bye bye.
+  English: Okay, bye. Bye bye.

@@ -1,0 +1,131 @@
+Speaker 1:
+  Original: Hello
+  English: Hello
+
+Speaker 2:
+  Original: Hello
+  English: Hello
+
+Speaker 1:
+  Original: Hello, Lalit ji ke yahan se baat ho rahi hai?
+  English: Hello, am I speaking with Lalit ji?
+
+Speaker 2:
+  Original: Haan, bol rahi hun.
+  English: Yes, speaking.
+
+Speaker 1:
+  Original: Namaskar ma'am, Seed Company ke HDFC se baat kar rahi hun.
+  English: Greetings ma'am, I'm calling from HDFC on behalf of Seed Company.
+
+Speaker 2:
+  Original: Haan, bol rahi hun. Sahi hai HDFC se baat kar rahi hain.
+  English: Yes, speaking. Right, you're speaking from HDFC.
+
+Speaker 1:
+  Original: Kya aapne loan chalu rakha hua hai? Hum jankari dene ke liye call kiya tha.
+  English: Do you currently have an active loan? We called to provide some information.
+
+Speaker 2:
+  Original: Yadi zyada loan chalu hai ya zyada kuch bada kar lena chahte hain toh le sakte hain?
+  English: If I have an active loan, or if I want a larger loan, can I get one?
+
+Speaker 1:
+  Original: Is baar aapko kuch relaxation mil jayegi.
+  English: This time you'll get some relaxation.
+
+Speaker 2:
+  Original: Haan, dekho main bata deti hun, private sector mein le rakha hai. Aapki jo 30% thi us amount ka byaaj maaf ho jayega. Amount aapko badhkar milega aur zyada se zyada subsidy discount aapko milegi is baar.
+  English: Look, let me tell you, I have taken a loan from the private sector. The interest on 30% of the amount will be waived. You will receive an increased amount, and you'll get a maximum subsidy discount this time.
+
+
+Speaker 2:
+  Original: Haan, jo bhi aap agree hain uske baare mein poochke kab bata dungi? Mujhe pata hoga na aapko kis tarike se batana hai. Main soch rahi hun.
+  English: Yes, regarding whatever you agree upon, when should I call back to inform you? I need to know how to tell you. I'm thinking about it.
+
+
+Speaker 2:
+  Original: Main apna thoda sa badha lena chahti hun. Dukan mein kuch naya invest karna chahti hun.
+  English: I want to increase my loan amount a bit. I want to make some new investments in my shop.
+
+
+Speaker 2:
+  Original: So, kab tak bataungi aap mujhe bata do, kyunki udhar se aap call karoge toh number nahi lag payega toh mujhe bata do apna, kab call karungi aapko.
+  English: So, tell me when I should inform you, because if you call from there, the number might not connect. So, tell me when I should call you back.
+
+Speaker 1:
+  Original: Nahin ma'am, main abhi toh nahin hain, lekin filhaal main aap mujhe zyada toh chahiye tha, abhi 1 lakh toh aap bata rahi ho. 1 lakh toh ho jayega.
+  English: No ma'am, I'm not available right now, but I needed more than that. Right now you are talking about 1 lakh. 1 lakh will work.
+
+
+Speaker 1:
+  Original: Ho jayega na ma'am, sahi hai? Dekho aapka ek account pehle se hi chal raha hai, toh fir se bhi ek lena chahte hain toh bhi chalega.
+  English: It will work, ma'am, right? Look, you already have one active account, so if you want to take another one, that will also work.
+
+Speaker 2:
+  Original: Dukan toh wahi hogi na jo pehle se thi meri. Matlab dukan wahi... Nahin, Seeds mein se jo hai aapka, Seeds mein jo tha pehle aapke 1 lakh ka tha na?
+  English: The shop will be the same one that I already have, right? I mean, the same shop... No, the one you had with Seeds, the one in Seeds that was previously for 1 lakh, right?
+
+Speaker 1:
+  Original: Haan.
+  English: Yes.
+
+Speaker 2:
+  Original: Jo Agra loan se tha wo 1 lakh ka tha.
+  English: The one from Agra loan was for 1 lakh.
+
+Speaker 1:
+  Original: Haan, wo khatam ho gaya hai.
+  English: Yes, that one is finished.
+
+Speaker 2:
+  Original: Haan toh agar fir se leti hun dukan toh, dukan wagairah toh wahi hogi na jo pehle se thi aapki?
+  English: So, if I take it again, the shop, the shop and all will be the same one that I already have, right?
+
+Speaker 1:
+  Original: Haan, dukaan toh wahi hai lekin wo ab aisa hai na meri pehle se hi ab wo saathi ma wagairah kar rahi hai. Devar wagairah hain aur wo uske naam se kara rahi hai.
+  English: Yes, the shop is the same, but now it’s like this, mine is already… now she’s doing it with her husband or something. It's with her brother-in-law and all, and she’s doing it in his name.
+
+Speaker 2:
+  Original: Accha pehle aapki apni hoti thi wo?
+  English: Oh, was it your own before?
+
+Speaker 1:
+  Original: Kaise matlab dukan aapki apni nahin hai kya abhi hoti thi.
+  English: What do you mean?  Isn't the shop yours? It used to be.
+
+Speaker 2:
+  Original: Nahin nahin thi pehle, ab wo aisa batwara wagairah ho gaya hai toh wo devar ke paas ho gayi hai.
+  English: No no, it was mine before. Now there's been a division or something, so it’s gone to my brother-in-law.
+
+Speaker 1:
+  Original: Accha, matlab ab dukan tumhare paas nahin rahi hai.
+  English: Oh, so the shop is no longer with you.
+
+Speaker 2:
+  Original: Haan abhi toh nahi hai. Fir nahi bata sakte hain. Toh dukan nahi hai.
+  English: Yes, not right now. Then I can't tell. So, there is no shop.
+
+Speaker 1:
+  Original: Haan toh fir nahi.
+  English: Okay, then no.
+
+Speaker 1:
+  Original: Yahi toh cheez chal rahi hai ab. Okay, ma'am, aap fir nahi bata payenge. Thik hai, aap is cheez ke naam pe, uski dukan aap uspe aap ise le sakti hain, chota ho jayega. Husband kya karta hai aapke?
+  English: This is the thing that's going on now. Okay ma'am, so you won't be able to tell. Okay, you can take it in his name, under his shop, it will be a smaller amount. What does your husband do?
+
+Speaker 2:
+  Original: Husband gadiyaan hain humare paas, gadiyon ka kaam hai.
+  English: My husband has vehicles, we have a vehicle business.
+
+Speaker 1:
+  Original: Gadiyon ka check out, matlab gadi chalate hain ya fir dukan wagairah hai aapki ya uski?
+  English: Vehicle check out, meaning you drive vehicles, or do you or he have a shop?
+
+Speaker 2:
+  Original: Nahin nahin, gadiyaan hain, driver log chalate hain.
+  English: No no, we have vehicles, drivers drive them.
+
+Speaker 1:
+  Original: Thik hai.
+  English: Okay.

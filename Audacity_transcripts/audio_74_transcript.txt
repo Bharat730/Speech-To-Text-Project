@@ -1,0 +1,15 @@
+Speaker 1:
+  Hindi: हेलो.
+  English: Hi.
+
+Speaker 2:
+  Hindi: जी बताइए ऐसी बात कर लो।
+  English: Yes, tell me such a thing.
+
+Speaker 1:
+  Hindi: 10 तारीख़ की टेस्ट के खाते से कटेगा तो बैलेंस में समस्या न हो.
+  English: If there is a problem in the balance, then there is no problem in the balance.
+
+Speaker 2:
+  Hindi: ठीक है थैंक यू।
+  English: Ok thank you.

@@ -1,0 +1,8 @@
+Language: German
+Reference Text: ihr erstes war der slalom bei dem sie in ihrem ersten lauf ein did not finish erhielt 36 der 116 teilnehmer erzielten in diesem rennen das gleiche ergebnis
+----------------------------------------
+Whisper Transcription (in original language):
+ Ihr erstes war der Slalom, bei dem sie in ihrem ersten Lauf ein Did Not Finish erhielt. 36 der 116 Teilnehmer erzielten in diesem Rennen das gleiche Ergebnis.
+----------------------------------------
+Whisper Translation (to English):
+ Her first was the slalom, where she got a did not finish in her first run. 36 of the 116 participants achieved the same result in this race.

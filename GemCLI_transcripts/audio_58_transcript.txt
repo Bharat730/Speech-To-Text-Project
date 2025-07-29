@@ -1,0 +1,23 @@
+Speaker 1:
+  Original: Hello? Hello sir, kya aap swaagat kar rahe hai Flipkart se bol rahe hai?
+  English: Hello? Hello sir, are you available? I'm speaking from Flipkart.
+
+Speaker 2:
+  Original: Haan ji, haan ji.
+  English: Yes, yes.
+
+Speaker 1:
+  Original: Sir, Kiss company se baat kar rahe hain? Jin loan card hai abhi aapka? 
+  English: Sir, which company are you talking about?  Which loan card do you currently have?
+
+Speaker 2:
+  Original: IDFC First Bank.
+  English: IDFC First Bank.
+
+Speaker 1:
+  Original: Acha, sir 10 tarikh ke case mein aapke khate se kat te hain, toh balance maintain rakhna taki koi bhi samasya na ho. Thik hai?
+  English: Okay sir, on the 10th of the month, the amount will be deducted from your account, so please maintain the balance so there's no problem. Okay?
+
+Speaker 2:
+  Original: Nai nai nai aaj tak koi nahi koi samasya.
+  English: No, no, no. Till today there has never been a problem.

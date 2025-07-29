@@ -1,0 +1,23 @@
+Speaker 1:
+  Original: Hello. Hello. Haan. Hello. Haan. Sanjeev Kumar ji se baat ho sakti hai?
+  English: Hello. Hello. Yes. Hello. Yes. Can I speak with Mr. Sanjeev Kumar?
+
+
+Speaker 2:
+  Original: Hein? Sanjeev Kumar ji se baat ho sakti hai?
+  English: Huh? Can I speak with Mr. Sanjeev Kumar?
+
+
+Speaker 1:
+  Original: Nahin nahin wrong number hai yah toh.
+  English: No no, this is the wrong number.
+
+
+Speaker 2:
+  Original: Wrong number?
+  English: Wrong number?
+
+
+Speaker 1:
+  Original: Wrong number hai. Wrong.
+  English: It's the wrong number. Wrong.

@@ -1,0 +1,3 @@
+Speaker 1:
+  Hindi: हेलो, आवाज आ रही है, हेलो सर से बात कर रहे है, कंपनी से बात कर रही हूँ, ठीक है, बात कर रहा हूँ, ठीक है।
+  English: Hello, the voice is coming, Hello is talking to sir, talking to the company, okay, talking, okay.

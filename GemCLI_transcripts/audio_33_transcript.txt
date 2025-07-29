@@ -1,0 +1,31 @@
+Speaker 1:
+  Original: Hello? Hello? Sandeep जी से बात कर रही हूँ?
+  English: Hello? Hello? Am I speaking with Sandeep?
+
+Speaker 2:
+  Original: हाँ जी।
+  English: Yes.
+
+Speaker 3:
+  Original: जी नमस्कार सर। मैं Seeds कंपनी के हेड ऑफिस से बात कर रही हूँ सर। जहाँ से आपका लोन चल रहा है।
+  English: Hello sir. I'm calling from the head office of Seeds Company, sir. Where your loan is running from.
+
+Speaker 2:
+  Original: हाँ जी।
+  English: Yes.
+
+Speaker 3:
+  Original: जी जानकारी देनी थी सर कि 10 तारीख को आपके खाते से आपकी EMI डिडक्ट करेगी। खाते में बैलेंस रखियेगा। अगर उस दिन में लें देन नहीं कीजिएगा।
+  English: Sir, I wanted to inform you that your EMI will be deducted from your account on the 10th. Please maintain sufficient balance in your account.  If you won't be making any transactions that day.
+
+Speaker 2:
+  Original: ठीक है मैडम।
+  English: Okay, madam.
+
+Speaker 3:
+  Original: Okay thank you.
+  English: Okay, thank you.
+
+Speaker 2:
+  Original: ओके।
+  English: Okay.

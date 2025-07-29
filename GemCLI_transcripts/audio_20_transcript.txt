@@ -1,0 +1,36 @@
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 2:
+  Original: Hello?
+  English: Hello?
+
+Speaker 1:
+  Original: Haan ji?
+  English: Yes? / Speaking?
+
+Speaker 2:
+  Original: Sir, Ma'am ke saath baat kar rahe hain?
+  English: Sir, are you speaking with Ma'am?
+
+Speaker 1:
+  Original: Haan ji, daraaz.
+  English: Yes, tell me. / Yes, speak.
+
+Speaker 2:
+  Original: Ye aapne EMI li thi, [Redacted company name] ki?
+  English: Did you take an EMI from [Redacted company name]?
+
+Speaker 1:
+  Original: Haan ji, main dimaag kharaab hai abhi, phone na karo do ghantay.
+  English: Yes, my head is hurting right now, don't call for two hours.
+
+
+Speaker 2:
+  Original: Kab se EMI shuru ho gayi?
+  English: When did the EMI start?
+
+Speaker 1:
+  Original: [Beep]
+  English: [Beep] (Sound of call disconnect)

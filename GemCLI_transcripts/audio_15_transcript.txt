@@ -1,0 +1,20 @@
+Speaker 1:
+  Original: Hello. Hello. Hello. Arun Sir baat kar rahe hain?
+  English: Hello. Hello. Hello. Is this Mr. Arun speaking?
+
+Speaker 2:
+  Original: Yes. Main Seeds company se baat kar rahi hu, sir. Aapki EMI jama honi thi. Aapne abhi tak apni EMI jama nahi ki hai Seeds company ki.
+  English: Yes. I am speaking from Seeds company, sir. Your EMI was due. You haven't yet deposited your EMI for Seeds company.
+
+Speaker 1:
+  Original: Karenge, karenge.
+  English: I will, I will.
+
+Speaker 2:
+  Original: Kab karenge, sir?
+  English: When will you do it, sir?
+
+
+Speaker 1:
+  Original: Chalo, kal kar denge, bhai.
+  English: Okay, I'll do it tomorrow.

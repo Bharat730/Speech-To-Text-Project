@@ -1,0 +1,57 @@
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 2:
+  Original: Hello मैं स्कूल काउंसलर मिस प्रिय सारस्वत से बात कर रही हूं। हेलो किस विभाग से?
+  English: Hello, I am speaking from the school counselor, Miss Priya Saraswat. Hello, which department is this?
+
+Speaker 1:
+  Original: हां जी, मैम।
+  English: Yes, ma'am.
+
+Speaker 2:
+  Original: सर, ये आपकी फीस जमा नहीं हुई है। अभी पार्शियली फीस पेंडिंग है आपकी। कब तक जमा करवाएंगे आप?
+  English: Sir, your fees have not been deposited.  Partially, your fees are pending. When will you deposit them?
+
+
+Speaker 1:
+  Original: मैम कल करवा देंगे।
+  English: Ma'am, I will deposit it tomorrow.
+
+
+Speaker 2:
+  Original: सर आपको पता है, आप ऑलरेडी आठ दिन लेट हो चुके हैं।
+  English: Sir, are you aware that you are already eight days late?
+
+
+Speaker 1:
+  Original: हां मैडम, थोड़ी प्रॉब्लम हो गई। इस कारण हो नहीं पाया था अबकी बार।
+  English: Yes ma'am, there was a slight problem.  Because of this, I couldn't do it this time.
+
+Speaker 2:
+  Original:  तो इसे प्रायोरिटी बेस पे कल जमा करवाइए।
+  English: So, please deposit it tomorrow on a priority basis.
+
+
+Speaker 1:
+  Original: हां, हाफ तो मैंने कर दी है।
+  English: Yes, I have already paid half.
+
+
+Speaker 2:
+  Original: हां जी, सर आपके सिर्फ हाफ ही आया है। अभी हाफ पेंडिंग है अभी आपका।
+  English: Yes sir, only half has been received. Half is still pending.
+
+
+Speaker 1:
+  Original: अच्छा ठीक है, कल करवा देंगे मैम।
+  English: Okay, I'll deposit it tomorrow, ma'am.
+
+Speaker 2:
+  Original: ओके।
+  English: Okay.

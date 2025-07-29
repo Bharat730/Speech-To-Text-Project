@@ -1,0 +1,23 @@
+Speaker 1:
+  Original: Hello
+  English: Hello
+
+Speaker 2:
+  Original: Hello सर सुमित जी से बात हो रही है?
+  English: Hello, am I speaking with Mr. Sumit?
+
+Speaker 1:
+  Original: हम्म
+  English: Hmm
+
+Speaker 2:
+  Original: नमस्कार सर, सर मैं Seeds कंपनी के हेड ऑफिस गुरुग्राम से बात कर रही हूं। सर 10 तारीख को आपके किस आपके अकाउंट से कटेगी। 
+  English: Greetings sir, I am speaking from the head office of Seeds company in Gurugram. Sir, on the 10th, it will be deducted from your which, your account.
+
+Speaker 2:
+  Original: अकाउंट में बैलेंस मेन्टेन रखना। किसी को नगद ये कैश में पैसे मत देना। ठीक है?
+  English: Maintain the balance in your account. Don't give cash, that is, money in cash to anyone. Okay?
+
+Speaker 1:
+  Original: हम्म।
+  English: Hmm.

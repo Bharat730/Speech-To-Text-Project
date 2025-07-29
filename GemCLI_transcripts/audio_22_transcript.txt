@@ -1,0 +1,39 @@
+Speaker 1:
+  Original: Hello. Hello. रोहित बात कर रहे हो?
+  English: Hello. Hello. Is Rohit speaking?
+
+Speaker 2:
+  Original: हां जी।
+  English: Yes.
+
+Speaker 3:
+  Original: सील्ड्स से बात कर रही हूं सर। आपने इएमआई नहीं दी अब तक मैं ये
+  English: I'm speaking from Sealed, sir. You haven't paid your EMI yet, so I...
+
+Speaker 2:
+  Original: कौन सी जी? 
+  English: Which one?
+
+Speaker 3:
+  Original: सील्ड्स कंपनी की। ये जो आपकी इएमआई है ₹4900 की।
+  English: From the Sealed company. This EMI of yours is for ₹4900.
+
+Speaker 2:
+  Original: चार हज़ार? नौ सौ। चार हज़ार नौ सौ की। जी।  नहीं, नहीं नहीं मैम मैं तो दे दी हूं। इसमें आपका शो हो रहा है। 4900 की तो मैम नहीं। तो मैम 4900 की तो नहीं है मैम, 4400 रुपए की है वो। 
+  English: Four thousand? Nine hundred. Four thousand nine hundred. Yes. No, no no ma'am, I've already paid it.  It's showing in your system.  It's not for ₹4900, ma'am. It's for ₹4400.
+
+Speaker 3:
+  Original: हां वो तो ₹500 पैनल्टी लगा है ना। आपकी 10 तारीख के बाद ही अगर आप इएमआई देते हो तो ₹500 पैनल्टी होता है ना उसपे।
+  English: Yes, but a ₹500 penalty has been applied, right? If you pay your EMI after the 10th, there's a ₹500 penalty, isn't there?
+
+Speaker 2:
+  Original: जी।  ओके। नहीं नहीं तो करा दी थी मैम समय। अच्छा कब कराई थी आप मुझे बता दोगे एक बार?
+  English: Yes. Okay. No no, I paid it on time, ma'am. Okay, could you tell me when I made the payment?
+
+Speaker 3:
+  Original: मैम ये करा दी थी 16-17 तारीख में।
+  English: Ma'am, it was paid on the 16th or 17th.
+
+Speaker 2:
+  Original: ठीक है। ओके। 
+  English: Okay. Okay.

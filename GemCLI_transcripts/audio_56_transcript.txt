@@ -1,0 +1,24 @@
+Speaker 1:
+  Original: हेलो नमस्कार क्या हम लोग कन्हैया लाल जी से बोल रहे हैं?
+  English: Hello, Greetings. Am I speaking with Kanhaiya Lal ji?
+
+Speaker 2:
+  Original: हेलो
+  English: Hello
+
+Speaker 1:
+  Original: सर कन्हैया लाल जी बात कर रहे हो?
+  English: Sir, are you Kanhaiya Lal ji speaking?
+
+Speaker 2:
+  Original: हां जी
+  English: Yes
+
+Speaker 1:
+  Original: किस कंपनी से बात कर रही हूं, जो लोन चल रहा है आपका 10 तारीख की कैसे खाते से कटेंगे सर। तो बैलेंस मेंटेन रखना है ताकि कोई समस्या ना हो, ठीक है?
+  English: I'm calling from the company regarding your loan.  It's deducted from your account on the 10th of the month, sir. So please maintain the balance so there are no issues, okay?
+
+
+Speaker 2:
+  Original: जी सर, थैंक यू।
+  English: Yes sir, thank you.

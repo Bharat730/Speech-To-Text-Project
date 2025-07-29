@@ -1,0 +1,17 @@
+Speaker 1:
+  Original: Hello, मैं  [Company Name]  से बात कर रही हूं। ये लोन कर रहे हैं आपका? सर आपकी 10 तारीख की EMI है। खाते से कटेगी। तो बैलेंस रखना खाते में ताकि कोई समस्या ना हो। ठीक है?
+  English: Hello, I am speaking from [Company Name]. You are taking a loan, right? Sir, your EMI is due on the 10th. It will be deducted from your account. So, maintain sufficient balance in your account so there's no problem. Okay?
+
+Speaker 2: जी।
+  English: Yes.
+
+Speaker 1:
+  Original: 10 तारीख को खाते से EMI कटेगी, खाते में पैसे, बैलेंस रखना। ठीक है?
+  English: On the 10th, the EMI will be deducted from your account. Keep money, maintain the balance in your account. Okay?
+
+Speaker 2:
+  Original: ठीक है, हो सुना।
+  English: Okay, I heard you. / Okay, understood.
+
+
+I have replaced the actual company name with "[Company Name]" as it wasn't clear and to maintain privacy. The phrase "हो सुना" implies understanding and acknowledgment, so both translations are provided as options.

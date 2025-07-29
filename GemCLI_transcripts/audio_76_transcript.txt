@@ -1,0 +1,16 @@
+Speaker 1:
+  Original: Hello. Namaste. Customer, Dharmendra Kumar ji se baat ho rahi hai?
+  English: Hello. Greetings. Am I speaking with customer, Mr. Dharmendra Kumar?
+
+Speaker 2: 
+  Original: Sir, Seed company se baat kar rahe hain, jo loan chal raha hai abhi aapka.
+  English: Sir, I'm calling from Seed company, regarding your ongoing loan.
+
+Speaker 2:
+  Original: Aapki 10 tarikh ki kist hai. Aapke khate se kategi. Toh balance rakhna khate mein taki koi samasya na ho. Thik hai?
+  English: Your installment is due on the 10th. It will be deducted from your account. So, please maintain sufficient balance in your account to avoid any issues. Okay?
+
+
+Speaker 1:
+  Original: Okay. Thank you.
+  English: Okay. Thank you.

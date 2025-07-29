@@ -1,0 +1,32 @@
+Speaker 1:
+  Original: हैलो
+  English: Hello
+
+Speaker 2:
+  Original: जी नरवीर जी बात कर रहे है सर?
+  English: Is this Narvir speaking, sir?
+
+Speaker 3:
+  Original: इसका प्रेसिंग क्या पड़ेगी हमें?
+  English: What will be the pressing cost for us?
+
+Speaker 4:
+  Original: पहले तो सब 35,000 का रेट है। 
+  English: First of all, the rate is 35,000 for everyone.
+
+Speaker 1:
+  Original: हां जी, हां बोलो। 
+  English: Yes, yes, tell me.
+
+Speaker 4:
+  Original: अब आप बताओ कब करना है फिर बात करता हूं मैं इसके बाद।
+  English: Now you tell me when you want to do it, then I'll talk further.
+
+Speaker 1:
+  Original: सर आप सीसी 225, 5500 की आपने कराई थी, बाउंस हो गया है। अब कब तक करा देंगे आज आपको अपनी डिटेल।
+  English: Sir, you did CC 225 for 5500, it bounced. When will you get it done? I gave you my details today.
+
+Speaker 5:
+  Original: मैम 15 तारीख का टाइम दे रखा है सर को मैंने, पहले ही बोल दिया था। 5 तारीख को बता दिया था मैंने 15 तारीख को। है ना? अब वो उसका रेट 44...
+  English: Ma'am, I've given sir the 15th as the date. I told him earlier. I told him on the 5th about the 15th, right? Now, its rate is 44...
+[The audio cuts off here]

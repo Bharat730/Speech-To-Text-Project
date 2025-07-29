@@ -1,0 +1,19 @@
+Speaker 1:
+  Original: Hello.
+  English: Hello.
+
+Speaker 2:
+  Original: Hello. नमस्ते। क्या मेरी बात धर्मेंद्र कुमार जी से हो रही है?
+  English: Hello. Greetings. Am I speaking with Dharmendra Kumar ji?
+
+Speaker 2:
+  Original: बोल रहा हूं।
+  English: Speaking.
+
+Speaker 2:
+  Original: सर किस कंपनी से बात कर रही है? जो लोन चल रहा है अभी आपका। आपकी न सर 10 तारीख की ईएमआई खातें से कटेगी। तो बैलेंस रखना ताकि कोई समस्या ना हो। ठीक है?
+  English: Sir, which company are you calling from?  The one regarding the loan that's currently active? Sir, your EMI will be deducted from your account on the 10th. So, please maintain the balance so that there's no problem. Okay?
+
+Speaker 1:
+  Original: Okay. Thank you, ma'am.
+  English: Okay. Thank you, ma'am.

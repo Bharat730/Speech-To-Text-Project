@@ -1,0 +1,31 @@
+Speaker 1:
+  Original: हेलो
+  English: Hello
+
+Speaker 1:
+  Original: हेलो
+  English: Hello
+
+Speaker 1:
+  Original: हेलो हाँ संजीव कुमार सर से बात हो सकती है?
+  English: Hello, yes. Can I speak with Mr. Sanjeev Kumar?
+
+Speaker 2:
+  Original: हां?
+  English: Yes?
+
+Speaker 1:
+  Original: संजीव कुमार सर से बात हो सकती है?
+  English: Can I speak with Mr. Sanjeev Kumar?
+
+Speaker 2:
+  Original: नहीं नहीं ये तो रॉन्ग नंबर है बेटा।
+  English: No, no, this is the wrong number, son.
+
+Speaker 2:
+  Original: नहीं है ना कोई संजीव कुमार। 
+  English: There's no Sanjeev Kumar here.
+
+Speaker 2:
+  Original: संजीव कुमार यहां कोई नहीं।
+  English: There's no Sanjeev Kumar here.

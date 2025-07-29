@@ -1,0 +1,51 @@
+Speaker 1:
+  Original: Hello, hello? Sir, good evening. Ma'am, Mom's company se baat ho rahi hai.
+  English: Hello, hello? Sir, good evening. Ma'am, I'm calling from Mom's company.
+
+Speaker 2:
+  Original: Ji, madam, good evening.
+  English: Yes, madam, good evening.
+
+
+Speaker 1:
+  Original: Main CITI company se baat kar rahi hu. Sir, aapki EMI bachchu hone ki aaj hai.
+  English: I'm speaking from CITI company. Sir, your EMI is due today.
+
+Speaker 2:
+  Original: Ji
+  English: Yes
+
+Speaker 1:
+  Original: Sir, main CITI company se baat kar rahi hu.
+  English: Sir, I'm speaking from CITI company.
+
+
+Speaker 2:
+  Original: Haan.
+  English: Yes.
+
+
+Speaker 1:
+  Original: Toh aapki EMI jama hone se, aapne account mein balance jama kar diya hai?
+  English: So, have you deposited the balance in your account for your EMI payment?
+
+Speaker 2:
+  Original: Haan, madam, mere account me balance jama hai na.
+  English: Yes, madam, there's a balance in my account.
+
+Speaker 1:
+  Original: Jama hai? Toh sir, kabhi tark nahin nikaliyega. Wo next vehicle issue ke karan na late mat kijiye bhai.
+  English: It is deposited?  Then sir, never give excuses. Don't be late because of that next vehicle issue.
+
+Speaker 2:
+  Original: Chal thik hai madam, koi nahi. Acha, madam, meri wo issue, discuss karni hai na ki motorcycle ki 48 se 50 hazaar ki woh karenge kal ke baad?
+  English: Okay, madam, no problem.  Listen, madam, I have that issue, I need to discuss, regarding the motorcycle's 48 to 50 thousand, will we do that after tomorrow?
+
+Speaker 1:
+  Original: Nahi sir, kal ka call raat ke 12:00 baje se starting ho jayegi agar raat ke 12:00 baje tak thik hai.
+  English: No sir, tomorrow's call will start from midnight, if it's okay by midnight.
+
+
+Speaker 2:
+  Original: Thik hai madam, koi nahi.
+  English: Okay madam, no problem.

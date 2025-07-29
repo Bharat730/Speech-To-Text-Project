@@ -1,0 +1,78 @@
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 2:
+  Original: Hello?
+  English: Hello?
+
+Speaker 1:
+  Original: Haan ji?
+  English: Yes?
+
+Speaker 2:
+  Original: Hello. Sir, good morning.
+  English: Hello. Sir, good morning.
+
+Speaker 1:
+  Original: Haan ji. Good morning. Nazim Ali se baat kar rahe hain?
+  English: Yes. Good morning. Are you speaking with Nazim Ali?
+
+Speaker 2:
+  Original: Ji nahi. Main Seeds company se baat kar rahi hun, sir.
+  English: No, sir. I'm speaking from Seeds company.
+
+Speaker 1:
+  Original: Kahan se?
+  English: From where?
+
+Speaker 2:
+  Original: Sir, aapke Seeds company se baat kar rahi hun. Aapki 3850 rupay ki EMI hai, abhi tak jama nahi hui hai.
+  English: Sir, I'm speaking from Seeds company. Your EMI of 3850 rupees is due, it hasn't been deposited yet.
+
+
+Speaker 1:
+  Original: Seeds kis cheez ke hain?
+  English: Seeds of what?
+
+Speaker 2:
+  Original: Seeds company ki. 3850.
+  English: Of Seeds company. 3850.
+
+Speaker 1:
+  Original: Madam, hamari kaun si madam ki EMI aa rahi hai?
+  English: Madam, which of our madam's EMI is due?
+
+Speaker 2:
+  Original: Nazim Ali se baat kar rahe hain na?
+  English: Are you speaking with Nazim Ali?
+
+Speaker 1:
+  Original: Ji?
+  English: Yes?
+
+Speaker 2:
+  Original: Nazim Ali se baat kar rahe hain na?
+  English: Are you speaking with Nazim Ali, right?
+
+Speaker 1:
+  Original: Nahi, nahi, nahi, nahi, nahi, nahi. Kaun baat kar raha hai madam? Nitin, Nitin. Das wali aa rahi hai, paanch wali?
+  English: No, no, no, no, no, no. Who is speaking, madam?  Nitin, Nitin. Is it the one due on the 10th or the 5th?
+
+Speaker 2:
+  Original: Sir, yeh number aapka hi hai na? 844, 8445001720?
+  English: Sir, this is your number, right? 8445001720?
+
+Speaker 1:
+  Original: Haan, number to mera hi hai, par lekin main Nitin Sharma baat kar raha hun.
+  English: Yes, the number is mine, but I am Nitin Sharma speaking.
+
+
+Speaker 2:
+  Original: Aap Nazim
+  English: You Nazim
+
+
+Speaker 1:
+  Original: [Inaudible]
+  English: [Inaudible]

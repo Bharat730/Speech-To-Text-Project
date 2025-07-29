@@ -1,0 +1,19 @@
+Speaker 1:
+  Original: हेलो, हेलो, कौन बोल रहा है? हेलो? कौन सी कंपनी से बोल रहे हो आप? हेलो हेलो सर बात करो
+  English: Hello, hello, who is speaking? Hello? Which company are you speaking from? Hello, hello sir, talk.
+
+Speaker 2:
+  Original: The person you are speaking with has put your call on...
+  English: The person you are speaking with has put your call on...
+
+Speaker 1:
+  Original: ऐ, बताइए, ऐ, कौन बोल रहा है? हेलो सर, उनसे बात कराओ.
+  English: Hey, tell me, hey, who is speaking? Hello sir, let me talk to them.
+
+Speaker 2:
+  Original: The person you are speaking with has put your call on...
+  English: The person you are speaking with has put your call on...
+
+Speaker 3:
+  Original: *beep*
+  English: *beep* (This indicates a call being disconnected or put on hold.)

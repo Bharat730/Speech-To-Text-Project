@@ -1,0 +1,19 @@
+Speaker 1:
+  Original: हेलो, नमस्ते सर, मैं राकेश से सिटी से बोल रही हूं।
+  English: Hello, Namaste sir. I am Rakesh, speaking from City.
+
+Speaker 2:
+  Original: हां जी।
+  English: Yes.
+
+Speaker 1:
+  Original: सर सिटीज़ कंपनी से बात कर रही हूं, जो लोन चल रहा है आपका, सर आपकी 10 तारीख की पेमेंट है आपके खाते से कटेगी, तो प्लीज बैलेंस मेन्टेन रखिएगा ताकि कोई भी समस्या ना हो। ठीक है?
+  English: Sir, I'm calling from City's company, regarding your ongoing loan. Sir, your payment is due on the 10th, it will be deducted from your account. So please maintain sufficient balance so that there is no problem. Okay?
+
+Speaker 2:
+  Original: जी।
+  English: Yes.
+
+Speaker 1:
+  Original: थैंक यू।
+  English: Thank you.

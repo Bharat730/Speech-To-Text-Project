@@ -1,0 +1,23 @@
+Speaker 1:
+  Original: Hello, hello. नमस्ते क्या मैं रितु कुमार जी से बोल रही हूँ?
+  English: Hello, hello. Greetings, am I speaking with Ritu Kumar ji?
+
+
+Speaker 2:
+  Original: हाँ जी, बताइए मैडम।
+  English: Yes, please tell me, madam.
+
+
+Speaker 1:
+  Original: सर, Kiss कंपनी से बात कर रही हूँ जो लोन चल रहा है अभी आपका? आपकी EMI सर 10 तारीख की Keshav आपके खाते से कटेगी। तो बैलेंस मेन्टेन रखिएगा ताकि कोई भी समस्या ना हो, ठीक है?
+  English: Sir, I am speaking from Kiss company regarding your ongoing loan. Your EMI, sir, will be deducted from your account on the 10th. So please maintain sufficient balance to avoid any issues, okay?
+
+
+Speaker 2:
+  Original: ठीक है जी।
+  English: Okay.
+
+
+Speaker 1:
+  Original: थैंक यू।
+  English: Thank you.

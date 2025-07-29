@@ -1,0 +1,19 @@
+Speaker 1:
+  Hindi: हेलो हेलो नमस्कार सर, मैं कंपनी से बात कर रही हूँ, यहाँ से आपका लोन सदर रहा है.
+  English: Hello Hello Namaskar Sir, I am talking to the company, your loan is being sustained from here.
+
+Speaker 2:
+  Hindi: कहाँ से.
+  English: From where.
+
+Speaker 1:
+  Hindi: कंपनी.
+  English: Company.
+
+Speaker 2:
+  Hindi: चल नहीं रहा है। वो तो वो तो 23 महीने पहले क्लियर हो गया.
+  English: Is not running He was cleared 23 months ago.
+
+Speaker 1:
+  Hindi: क्यूँ हो या कभी बनाना चाहते हैं क्या लोन को?
+  English: Why do you want to make a loan?

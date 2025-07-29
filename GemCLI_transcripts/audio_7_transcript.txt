@@ -1,0 +1,59 @@
+Speaker 1:
+  Original: Hello, hello. Hello. Sir, good morning.
+  English: Hello, hello. Hello. Sir, good morning.
+
+Speaker 2:
+  Original: जी, मोहित वर्मा से बात कर रहे हैं?
+  English: Yes, am I speaking with Mohit Verma?
+
+Speaker 1:
+  Original: Hello.
+  English: Hello.
+
+
+Speaker 2:
+  Original: हाँ जी, बोलिए।
+  English: Yes, please speak.
+
+Speaker 1:
+  Original: सर, मैं Seeds कंपनी से बात कर रही हूँ।
+  English: Sir, I'm speaking from Seeds company.
+
+Speaker 2:
+  Original: हाँ जी।
+  English: Yes.
+
+Speaker 1:
+  Original: सर, आपकी EMI जमा होनी थी, आप काफ़ी टाइम से अपनी EMI जमा नहीं कर रहे हैं, पूछ सकती हूँ क्या?
+  English: Sir, your EMI was due. You haven't been paying your EMI for quite some time. May I ask why?
+
+
+Speaker 2:
+  Original: जी जी जी।
+  English: Yes, yes, yes.
+
+
+Speaker 1:
+  Original: Seeds कंपनी की 8790 रुपये जैसी EMI है।
+  English:  It's an EMI of 8790 rupees for Seeds company.
+
+
+Speaker 2:
+  Original: नहीं नहीं, वो किसी और का होगा। आप कन्फर्म चेक करो।
+  English: No, no, that must be someone else's. Please check and confirm.
+
+Speaker 1:
+  Original: तो मोहित वर्मा आपके नाम है ना?
+  English: So, Mohit Verma is your name, right?
+
+Speaker 2:
+  Original: नहीं, नहीं, गलत नंबर है।
+  English: No, no, wrong number.
+
+Speaker 1:
+  Original: किसके नाम है?
+  English: Whose name is it?
+
+Speaker 2:
+  Original: वो चीज हम...
+  English: That thing we... (The call gets disconnected)

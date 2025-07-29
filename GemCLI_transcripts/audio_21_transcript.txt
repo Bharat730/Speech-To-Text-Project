@@ -1,0 +1,23 @@
+Speaker 1:
+  Original: Hello. अश्विनी जी से बात कर लूं?
+  English: Hello. Can I speak with Ashwini ji?
+
+Speaker 2:
+  Original: हां जी।
+  English: Yes.
+
+Speaker 3:
+  Original: सर, ये सीट्स के ये महीने के हैं, आपके इस महीने?
+  English: Sir, these are the seats for this month, yours for this month?
+
+Speaker 4:
+  Original: खर्चा ही मैम, पन्द्रह सौ रह गए, हज़ार रूपए रह गए, हज़ार काम को करूंगा।
+  English:  The expenses, Ma'am, fifteen hundred are left, thousand rupees are left, I will do the work for a thousand.
+
+Speaker 3:
+  Original: हां, हां। तो वो पेंडिंग है ना, पक्का बस कर दें, है ना?
+  English: Yes, yes. So that's pending, right? Just confirm it, okay?
+
+Speaker 4:
+  Original: हां, हां, वो हां। वो कर देंगे।
+  English: Yes, yes, that yes. I'll do it.

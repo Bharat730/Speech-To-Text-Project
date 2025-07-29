@@ -1,0 +1,8 @@
+Language: German
+Reference Text: laut polizei wird der fahrer des fahrzeugs das den fotografen angefahren hat wahrscheinlich nicht angeklagt werden
+----------------------------------------
+Whisper Transcription (in original language):
+ Laut Polizei wird der Fahrer des Fahrzeugs, das den Fotografen angefahren hat, wahrscheinlich nicht angeklagt werden.
+----------------------------------------
+Whisper Translation (to English):
+ According to police, the driver of the vehicle, who drove the photographers, is probably not charged.

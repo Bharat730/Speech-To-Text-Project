@@ -1,0 +1,99 @@
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 2:
+  Original: Hello?
+  English: Hello?
+
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+
+Speaker 2:
+  Original: Hello? Hello?
+  English: Hello? Hello?
+
+Speaker 1:
+  Original: शुभोध कुमार सर से बात हो रही है?
+  English: Am I speaking with Mr. Shubodh Kumar?
+
+Speaker 2:
+  Original: Yes Ma'am.
+  English: Yes Ma'am.
+
+Speaker 1:
+  Original: मैं किस कंपनी से बात कर रही हूं सर?
+  English: Which company am I speaking with, sir?
+
+
+Speaker 1:
+  Original: आपकी पांच हज़ार पांच सौ  की EMI अभी पेंडिंग की है, कब जमा करेंगे आप?
+  English: Your EMI of five thousand five hundred is pending, when will you deposit it?
+
+
+Speaker 2:
+  Original: Yes Ma'am. एक आध दिन बाद हो जाएगी।
+  English: Yes Ma'am. It will be done in a day or two.
+
+Speaker 1:
+  Original: सर, एक बीस तारीख, आज सत्रह तारीख हो गई है।
+  English: Sir, it was due on the 20th, today is the 17th.
+
+Speaker 1:
+  Original: आपने कुछ टाइम पहले भी यही बोला था, जब मैंने पंद्रह तारीख में आपको कॉल करी थी कि एक दो दिन में कर देंगे, अब आप फिर यही बोल रहे है |
+  English: You said the same thing some time ago, when I called you on the 15th, that you would do it in a day or two, and now you are saying the same thing again.
+
+
+Speaker 2:
+  Original: हो जाएगी मैम, फिर एक आध दिन।
+  English: It will be done, Ma'am, in a day or two.
+
+Speaker 1:
+  Original: एक फिक्स डेट बता दीजिए ना सर, ऐसे, जब तक हो जाएगी?
+  English: Tell me a fixed date, sir, not just "until it's done".
+
+Speaker 1:
+  Original: इससे आपका सिबिल ही बेकार हो रहा है, और कुछ नहीं हो रहा है | कहीं से आपको लोन वगैरह प्रोवाइड नहीं होगा सर |
+  English: This is only ruining your CIBIL score, nothing else. You won't get a loan from anywhere, sir.
+
+
+Speaker 2:
+  Original: चलो मैम, हो जाएगा फिर जल्दी।
+  English: Okay Ma'am, it will be done soon then.
+
+
+Speaker 1:
+  Original: तारीख बता दीजिये, कब तक हो जाएगा?
+  English: Tell me the date, by when will it be done?
+
+
+Speaker 2:
+  Original: मैम अभी तो फ़िलहाल में है नहीं पैसे, लेकिन हो जाएगा जल्दी।
+  English: Ma'am, right now I don't have the money, but it will be done soon.
+
+
+Speaker 1:
+  Original: सर, होते नहीं है पैसे, करने पड़ते है | कोशिश कीजिए की जल्दी से जल्दी कर दे |
+  English: Sir, money doesn't just appear, you have to earn it. Try to do it as soon as possible.
+
+
+Speaker 1:
+  Original: क्योंकि ये आपके सेल्फ पे इफ़ेक्ट डाल रही हो, कहीं और से आपको लोन प्रोवाइड नहीं होगा। अगर एक बार CIBIL में शो हो जाता है, तो कहीं से भी नहीं होता। आप कितनी भी कोशिश कर लीजिये, चाहे फिर। 
+  English: Because this is affecting your own self, you won't get a loan from anywhere else. If it shows up on your CIBIL report once, you won't get it from anywhere, no matter how hard you try.
+
+
+Speaker 1:
+  Original: आपको अभी इजी लग रहा है, मगर इन फ्यूचर आपको जो प्रॉब्लम फेस करनी पड़ेगी, जब पता लगेगा आपको।
+  English: It seems easy to you now, but you'll realize it when you face problems in the future.
+
+
+Speaker 1:
+  Original: अभी तो आपको ऐसा लग रहा है, हा जमा कर देंगे, कर देंगे। अगर आपको हमसे नॉलेज नहीं है, हम गलत बता रहे है, तो किसी और से भी आप पूछ कर भी देख सकते है। अगर CIBIL हो जाती है, या CIBIL में ओवरड्यू वगेरा शो हो जाता है तो कही से लोन प्रोवाइड होता है कि नहीं होता है।
+  English: Right now you think, yes, I'll deposit it, I'll deposit it. If you don't trust our knowledge, if we're telling you wrong, then you can ask someone else too. Check if you can get a loan from anywhere if your CIBIL is affected or if overdue payments show up on your CIBIL report.
+
+
+Speaker 2:
+  Original: Okay.
+  English: Okay.

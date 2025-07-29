@@ -1,0 +1,15 @@
+Speaker 1:
+  Hindi: हेलो हेलो.
+  English: Hello Hello.
+
+Speaker 2:
+  Hindi: रेंद्र रही.
+  English: Rinder remained
+
+Speaker 1:
+  Hindi: है। नहीं जी.
+  English: Is. no sir.
+
+Speaker 2:
+  Hindi: आप कौन बात कर। उन्ही के घर से बात करे। आप उन्हें बता दी तारीख की खाते में कोई समस्या न हो। थैंक यू।
+  English: Who you talk Talk to his house. You told them that there is no problem in the date of date. Thank you.

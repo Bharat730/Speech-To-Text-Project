@@ -1,0 +1,3 @@
+Speaker 1:
+  Hindi: हेलो हेलो।
+  English: Hello Hello.

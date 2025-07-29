@@ -1,0 +1,3 @@
+Speaker 1:
+  Hindi: हेलो हेलो हेलो मैं, संजीव कुमार से बात हो सकती है, संजीव कुमार बात हो सकती है, नहीं, नहीं तो संजीव।
+  English: Hello Hello Hello, I can talk to Sanjeev Kumar, Sanjeev Kumar may talk, otherwise Sanjeev.

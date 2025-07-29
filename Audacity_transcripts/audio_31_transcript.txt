@@ -1,0 +1,27 @@
+Speaker 1:
+  Hindi: हेलो कुमार जी ऐसी बात हो सकती.
+  English: Hello Kumar ji can be such a thing.
+
+Speaker 2:
+  Hindi: है.
+  English: Is.
+
+Speaker 1:
+  Hindi: कुमार जी से बात हो सकती है.
+  English: You can talk to Kumar ji.
+
+Speaker 2:
+  Hindi: नहीं.
+  English: No.
+
+Speaker 3:
+  Hindi: नहीं, रॉक नंबर.
+  English: No, rock number.
+
+Speaker 1:
+  Hindi: रॉक नंबर.
+  English: Rock number.
+
+Speaker 3:
+  Hindi: नंबर है।
+  English: Is the number.

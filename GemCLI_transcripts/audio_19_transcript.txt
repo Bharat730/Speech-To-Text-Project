@@ -1,0 +1,75 @@
+Speaker 1:
+  Original: Hello
+  English: Hello
+
+Speaker 2:
+  Original: Haan ji.
+  English: Yes.
+
+Speaker 1:
+  Original: Hello, haan ji sahibaan baat kar rahe hain?
+  English: Hello, yes, am I speaking with Sahibaan?
+
+Speaker 2:
+  Original: Haan ji.
+  English: Yes.
+
+Speaker 1:
+  Original: Main SlicePay ki taraf se aapse baat kar rahi hun.
+  English: I'm speaking to you from SlicePay.
+
+Speaker 2:
+  Original: Haan ji.
+  English: Yes.
+
+Speaker 1:
+  Original: Sir Slice, haan Slice ka aapka loan chal raha hai na ek lakh ka?
+  English: Sir, you have a Slice loan running, right? For one lakh?
+
+Speaker 2:
+  Original: Haan ji.
+  English: Yes.
+
+Speaker 1:
+  Original: Aapki payment due hai sir abhi toh account mein rakhiye hai na?
+  English: Your payment is due, sir.  Do you have it in your account?
+
+Speaker 2:
+  Original: Jee.
+  English: Yes.
+
+Speaker 1:
+  Original: Haan toh sir mujhe yeh batana tha ki ek hazaar aapka overdue statement hai ab aap
+  English: Yes, so sir, I wanted to inform you that you have a thousand rupees overdue statement. Now you…
+
+Speaker 2:
+  Original: Haan nahi par ho jayega ma'am.
+  English: Yes, but it will be done, ma'am.
+
+Speaker 1:
+  Original: Dus tarikh ko karti hain na ki kab?
+  English: Do you usually make the payment on the 10th or when?
+
+Speaker 2:
+  Original: Haan kab tak karaoge date batao na aap.
+  English: Yes, when will you make it? Tell me the date.
+
+Speaker 1:
+  Original: Bhai dus tarikh se pehle kara denge koi baat nahi.
+  English: Brother, I will do it before the 10th, no problem.
+
+Speaker 2:
+  Original: Haan ji nau tak kara dena sir kyunki agar aap dus ko nahi karaoge toh problem si jaegi na.
+  English: Yes, please do it by the 9th, sir, because if you don't do it by the 10th, there will be a problem.
+
+Speaker 1:
+  Original: Nahi nau tak kara denge nau tak, nau tak koi baat nahi sir.
+  English: No, I will do it by the 9th, by the 9th, no problem, sir.
+
+Speaker 2:
+  Original: Theek hai, nau tarikh na? Okay, theek hai. Theek hai sir, okay sir, thank you.
+  English: Okay, the 9th, right? Okay, fine. Okay sir, okay sir, thank you.
+
+Speaker 1:
+  Original: Okay bye.
+  English: Okay, bye.

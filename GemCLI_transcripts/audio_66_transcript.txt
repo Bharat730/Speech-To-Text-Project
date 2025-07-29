@@ -1,0 +1,11 @@
+Speaker 1:
+  Original: Hello! नेक्स्ट डे चार्जेबल अमाउंट ₹1600 है।
+  English: Hello! The next day's chargeable amount is ₹1600.
+
+Speaker 2:
+  Original: सर, ये 17 तारीख के डेट पे लोन सर है आपका। आपके ना 10 तारीख के केस से अकाउंट से कटेंगे सर। तो बैलेंस मेंटेन रखिएगा ताकि कोई भी समस्या ना हो। ठीक है?
+  English: Sir, this loan is due on the 17th.  It will be deducted from your account around the 10th. So, please maintain sufficient balance so that there is no problem. Okay?
+
+Speaker 1:
+  Original:  जी ठीक है, ओके। थैंक यू।
+  English: Yes, okay. Thank you.

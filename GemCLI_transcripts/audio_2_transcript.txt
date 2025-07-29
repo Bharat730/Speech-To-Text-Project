@@ -1,0 +1,33 @@
+Speaker 1:
+  Original: Hello, hello. Sir, good morning. Ramchandra, sir, baat kar rahe hain?
+  English: Hello, hello. Sir, good morning. Is this Ramchandra speaking?
+
+Speaker 2:
+  Original: Ji, baat kar raha hun.
+  English: Yes, speaking.
+
+Speaker 1:
+  Original: Main Seeds company se baat kar rahi hun, sir.
+  English: I'm calling from Seeds company, sir.
+
+Speaker 2:
+  Original: Ji, haan.
+  English: Yes.
+
+Speaker 1:
+  Original: Sir aaj aapki EMI jama hone ki hai. Aap kab tak EMI jama kar denge?
+  English: Sir, your EMI is due today. By when will you deposit it?
+
+
+Speaker 2:
+  Original: Haan, aaj, aaj kar dunga na, do baje tak kar dunga. Paanch ko keh dena do baje tak aa jayegi payment karke. Haan ji.
+  English: Yes, today, I'll do it today, by 2 o'clock I'll do it. Tell them at 5 that the payment will arrive by 2 o'clock. Yes.
+
+Speaker 1:
+  Original: Do baje se pehle, aaj hi karwa denge beta, theek hai?
+  English: Before 2 o'clock, please have it done today, okay?
+
+
+Speaker 2:
+  Original: Aaj hi kara dunga jitna jaldi ho sake, ma'am, aaj hi. Okay, theek hai. Theek hai.
+  English: I'll do it today as soon as possible, ma'am, today itself. Okay, alright. Alright.

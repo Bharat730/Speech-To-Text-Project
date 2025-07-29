@@ -1,0 +1,15 @@
+Speaker 1:
+  Original: Hello. नमस्ते सर, चांदनी बारात जी से हो रही हूँ।
+  English: Hello. Greetings sir, I am calling from Chandni Barat.
+
+Speaker 2:
+  Original: हां जी।
+  English: Yes.
+
+Speaker 1:
+  Original: सर सीट कंपनी से बात कर रही हूँ, जो लोन चल रहा है अभी आपका। आपके 10 तारीख के कैसे हैं? खाते से कटेगा सर। तो बैलेंस मेंटेन रखिएगा ताकि कोई भी समस्या ना हो। ठीक है?
+  English: Sir, I'm speaking from the Seat company, regarding the loan that you currently have.  Your payments are due on the 10th. It will be deducted from your account, sir. So please maintain sufficient balance so that there are no issues. Okay?
+
+Speaker 2:
+  Original: हां जी। बैलेंस तो रहता है। अभी तक तो मुझे कोई दिक्कत आई नहीं हुई है।
+  English: Yes. I maintain the balance. I haven't faced any issues till now.

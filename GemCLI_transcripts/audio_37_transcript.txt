@@ -1,0 +1,37 @@
+Speaker 1:
+  Original: Hello
+  English: Hello
+
+Speaker 2:
+  Original: नमस्कार सर, LegalRing से बात कर रहे हैं हम।
+  English: Hello sir, we are speaking from LegalRing.
+
+Speaker 1:
+  Original: हां जी, हां जी।
+  English: Yes, yes.
+
+Speaker 2:
+  Original: सर, श्री साई निर्माण से बात कर रहे हैं, अभी डिजिटल सिग्नेचर वाली हुई है सर अभी तक?
+  English: Sir, we are speaking from Shri Sai Nirman. Has the digital signature work been completed yet, sir?
+
+Speaker 1:
+  Original: हां जी, हां जी मैम।
+  English: Yes, yes, ma'am.
+
+Speaker 2:
+  Original: हां, उसमें क्या प्रॉब्लम आ रही है?
+  English: Yes, what problem are you facing with it?
+
+Speaker 1:
+  Original: Hello.
+  English: Hello.
+
+
+Speaker 1:
+  Original: Hello.
+  English: Hello.
+
+
+Speaker 1:
+  Original: (Inaudible/Beep)
+  English: (Inaudible/Beep)

@@ -1,0 +1,27 @@
+Speaker 1:
+  Original: Hello
+  English: Hello
+
+Speaker 2:
+  Original: Hello सर नासिर जी से बात हो रही है?
+  English: Hello, am I speaking with Mr. Nasir?
+
+Speaker 1:
+  Original: हां जी
+  English: Yes
+
+Speaker 2:
+  Original: Hello
+  English: Hello
+
+Speaker 1:
+  Original: ऐसे सही लग रहा है। हां जी हां जी, बोलिए।
+  English: It sounds better this way. Yes, yes, please speak.
+
+Speaker 2:
+  Original:  हां जी सर, बैठे हैं अभी सर?
+  English: Yes sir, are you sitting down sir?
+
+Speaker 1:
+  Original: नहीं मैम, रॉन्ग नंबर लग गया।
+  English: No ma'am, it's a wrong number.

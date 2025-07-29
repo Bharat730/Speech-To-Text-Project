@@ -1,0 +1,111 @@
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 2:
+  Original: Hello?
+  English: Hello?
+
+Speaker 1:
+  Original: Hello, Crown? Hello?
+  English: Hello, Crown? Hello?
+
+Speaker 2:
+  Original: जी, Seed कंपनी के ऑफिस से बात कर रही हूं। Hello?
+  English: Yes, I'm speaking from the Seed company office. Hello?
+
+
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 2:
+  Original: Hello? आवाज आ रही है मेरी आपको?
+  English: Hello? Can you hear me?
+
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 2:
+  Original: Hello? Hello? आ आवाज आ रही है मेरी?
+  English: Hello? Hello? Can you hear me?
+
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 2:
+  Original: Hello? सर बच्चू सिंह जी से बात हो रही है?
+  English: Hello? Am I speaking with Mr. Bachchu Singh?
+
+Speaker 1:
+  Original: हां बोलो।
+  English: Yes, speak.
+
+Speaker 2:
+  Original: नमस्कार सर। Seed कंपनी, Seed कंपनी के ऑफिस से बात कर रही हूं। सर जहां से लोन चल रहा है आपका।
+  English: Greetings, sir. I'm speaking from the Seed company office, the place from where your loan is running.
+
+
+Speaker 1:
+  Original: हां बोलो।
+  English: Yes, speak.
+
+Speaker 2:
+  Original: जानकारी देने के लिए कॉल किया था सर कि अभी जो आपका लोन चल रहा है, यदि आप इसको बढ़ाकर लेना चाहते हैं तो ले सकते हैं। इस बार कुछ फायदे आपको मिल जाएंगे।
+  English: Sir, I called to inform you that regarding your current loan, if you want to increase it, you can. This time you will get some benefits.
+
+Speaker 1:
+  Original: कंप्लीट तो हो गया मेरा। हां तो फिर से लेना चाहते हैं, तो ले सकते हैं फिर दोबारा?
+  English: Mine is already completed. So, if I want to take it again, I can take it again?
+
+Speaker 2:
+  Original: वो सीड, ये लोन आपका चल रहा है सर।
+  English: That Seed, your loan is running, sir.
+
+Speaker 1:
+  Original: हां वो, NOC लेना कब आ जाऊं बताओ?
+  English: Yes, that, tell me when should I come to take the NOC?
+
+Speaker 2:
+  Original: तो आप कह रहे हैं दोबारा लेने के लिए?
+  English: So you are saying you want to take it again?
+
+Speaker 1:
+  Original: दोबारा नहीं, NOC चाहिए, NOC लेने कब आ जाऊं?
+  English: Not again, I need the NOC. When should I come to take the NOC?
+
+Speaker 2:
+  Original: अच्छा NOC के लिए तो वो ब्रांच पे बात कर लेना सर एक बार।
+  English: Oh, for the NOC, please talk to the branch once, sir.
+
+Speaker 1:
+  Original: अच्छा। हां, तो लोन नहीं चाहिए सीड से अभी।
+  English: Okay. Yes, so I don't need a loan from Seed right now.
+
+Speaker 2:
+  Original: कितने परसेंट का मिल जाएगा?
+  English: What percentage will I get?
+
+Speaker 1:
+  Original: सर वो बिजनेस पर डिपेंड करता है कि आपका बिजनेस कैसा है क्योंकि अभी मैं बिजनेस तो देख नहीं पा रही हूं ना आपका। वही बिजनेस होगा ना पहले का आपका?
+  English: Sir, that depends on the business, what kind of business you have, because I can't see your business right now. It will be the same business as before, right?
+
+
+Speaker 2:
+  Original: हां वही शॉप। नहीं नहीं, दुकान। हां वही दुकान का है।  जिस टाइम पे इन्होंने लास्ट आपका पहले था, वही सेम टू सेम वो भी हो सकता है अगर लेना चाहे तो आपका।
+  English: Yes, the same shop. No no, shop. Yes, it's for the same shop. At the time they last gave you before, the same can happen if you want to take it.
+
+Speaker 1:
+  Original: कितने परसेंट इंटरेस्ट होगा तो कॉल कर लूंगा। और कंडीशन इसकी। जी।  10% का मिलता है सर आपने। नहीं नहीं। मतलब गोल करा दूं अगर? 
+  English: If I know the interest percentage, I'll call. And its conditions. Yes. You get it for 10%, sir. No, no. I mean, should I call back if...?
+
+Speaker 2:
+  Original: गोल करा देना चाहिए। कितने परसेंट इंटरेस्ट। मतलब आप ही ने मुझसे। ये आवाज सीधी चली जाती है फोन पे ना। नहीं सर, कभी जब आए, तब बात हो।
+  English: You should call back. What percentage interest. I mean, you yourself told me. This voice goes directly on the phone, right? No sir, whenever you come, then we can talk.
+
+
+Speaker 1:
+  Original: ओके।
+  English: Okay.

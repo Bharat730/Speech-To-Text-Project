@@ -1,0 +1,55 @@
+Speaker 1:
+  Original: हेलो
+  English: Hello
+
+Speaker 2:
+  Original: हां जी। किससे बात हो रही है?
+  English: Yes. Who am I speaking with?
+
+Speaker 1:
+  Original: हम्म। सुहेल जी से बात हो रही है?
+  English: Hmm. Am I speaking with Mr. Suhel?
+
+Speaker 2:
+  Original: हां?
+  English: Yes?
+
+Speaker 1:
+  Original: सुहेल मोहम्मद सुहेल जी से बात हो रही है सर?
+  English: Am I speaking with Mr. Suhel Mohammad Suhel, sir?
+
+Speaker 2:
+  Original: हां बताइए। नमस्ते सर, किस कंपनी से आप लोग हैं, सर? किस कंपनी से आप लोग हैं, सर, बात कर रहे हैं? लोन के लिए ना सर?
+  English: Yes, tell me. Hello sir, which company are you from, sir? Which company are you calling from, sir? For a loan, right sir?
+
+Speaker 1:
+  Original: नो।
+  English: No.
+
+
+Speaker 2:
+  Original: हां जी। सर पीस कंपनी है सर इसको। सर पीस कंपनी में लोन नहीं कर रहा सर।
+  English: Yes. Sir, this is a peace company, sir.  Sir, peace company doesn't do loans, sir.
+
+
+Speaker 1:
+  Original: नो। कौन बात कर रहा है? नाम बताएंगे सर आप अपना?
+  English: No. Who am I speaking with? Could you tell me your name, sir?
+
+
+Speaker 2:
+  Original: अनिकेत बोल रहा हूं मैं।
+  English: I am Aniket.
+
+Speaker 1:
+  Original: अनिकेत बात कर रहे हैं? आपका ये जो नंबर था वो।
+  English: Aniket is speaking? Your, this number.
+
+Speaker 2:
+  Original: बस सर, नंबर तो ठीक है।
+  English: Just sir, the number is correct.
+
+
+Speaker 1:
+  Original: कितने
+  English: How much

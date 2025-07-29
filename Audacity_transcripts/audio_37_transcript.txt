@@ -1,0 +1,3 @@
+Speaker 1:
+  Hindi: हेलो नमस्कार है जी सर साइन से क्या प्रॉब्लम आ रही है हेलो हेलो।
+  English: Hello Namaskar is what is the problem coming from Sir Sine Hello Hello.

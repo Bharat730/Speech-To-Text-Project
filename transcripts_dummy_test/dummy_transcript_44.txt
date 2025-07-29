@@ -1,0 +1,3 @@
+Reference: ONE MINUTE A VOICE SAID AND THE TIME BUZZER SOUNDED
+----------------------------------------
+Whisper Output:  One minute, a voice said, and a time buzzer sounded.

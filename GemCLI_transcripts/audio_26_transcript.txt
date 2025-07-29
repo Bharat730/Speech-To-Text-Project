@@ -1,0 +1,14 @@
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+Speaker 2:
+  Original: Hello?
+  English: Hello?
+
+Speaker 1:
+  Original: Hello?
+  English: Hello?
+
+
+Since the audio only contains repetitions of "Hello?", there isn't any other content to transcribe or translate.

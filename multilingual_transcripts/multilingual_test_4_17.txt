@@ -1,0 +1,8 @@
+Language: German
+Reference Text: ein kurs deckt alle hier diskutierten probleme in der regel viel detaillierter ab normalerweise in kombination mit praktischer erfahrung
+----------------------------------------
+Whisper Transcription (in original language):
+ Ein Kurs deckt alle hier diskutierten Probleme in der Regel viel detaillierter ab, normalerweise in Kombination mit praktischer Erfahrung.
+----------------------------------------
+Whisper Translation (to English):
+ A course covers all the discussed problems in much more detail, usually in combination with practical experience.

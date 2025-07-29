@@ -1,0 +1,3 @@
+Reference: TEN SECONDS
+----------------------------------------
+Whisper Output:  10 seconds.

@@ -1,0 +1,8 @@
+Language: German
+Reference Text: die wissenschaft weist nun darauf hin dass diese massive kohlenstoffwirtschaft die biosphäre aus einem ihrer stabilen zustände der die menschliche evolution in den letzten zwei millionen jahren getragen hat herausgebracht hat
+----------------------------------------
+Whisper Transcription (in original language):
+ Die Wissenschaft weist nun darauf hin, dass diese massive Kohlenstoffwirtschaft die Biosphäre aus einem ihrer stabilen Zustände, der die menschliche Evolution in den letzten zwei Millionen Jahren getragen hat, herausgebracht hat.
+----------------------------------------
+Whisper Translation (to English):
+ Science now points out that this massive carbon economy has revealed the biosphere from one of its stable states, which has brought human evolution into existence in the last two million years.

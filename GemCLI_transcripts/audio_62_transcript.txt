@@ -1,0 +1,24 @@
+Speaker 1:
+  Original: हेलो, लक्ष्मण सिंह जी से हो रही है?
+  English: Hello, am I speaking with Lakshman Singh ji?
+
+Speaker 2:
+  Original: हां जी, लक्ष्मण सिंह से हो रही है।
+  English: Yes, you are speaking with Lakshman Singh.
+
+Speaker 1:
+  Original: सर, फिनकेयर कंपनी से बात कर रही हूं जो लोन चल रहा है आपका। आपके ना 10 तारीख के किश्त आपके खाते से कटेंगे सर। तो बैलेंस मेन्टेन रखना है ताकि कोई समस्या ना हो। ठीक है?
+  English: Sir, I'm calling from Fincare company regarding your ongoing loan.  Your installment will be deducted from your account on the 10th, sir.  So, please maintain the balance so that there's no problem. Okay?
+
+Speaker 2:
+  Original: ठीक है मैडम।
+  English: Okay, madam.
+
+Speaker 1:
+  Original: थैंक यू।
+  English: Thank you.
+
+
+Speaker 2:
+  Original: थैंक यू सिस्टर, बाय।
+  English: Thank you, sister. Bye.
